@@ -34,7 +34,7 @@ https://outpass-h62o.onrender.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/vishnukr2425/outpass
+  git clone https://github.com/Gauravnit006/outpass
 ```
 
 Go to the src folder and then app.js

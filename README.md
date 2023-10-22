@@ -59,7 +59,3 @@ To connect to local database:
 
 -> Comment the third line
 
-## Authors
-### Vishnu Kumar (Backend and Integration)
-### Saurabh Rangdale (Frontend)
-
